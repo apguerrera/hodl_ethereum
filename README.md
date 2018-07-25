@@ -1,2 +1,2 @@
 # hodl_ethereum
-Holds Ethereum for set time
+Holds any amount of Ethereum for set period. 
